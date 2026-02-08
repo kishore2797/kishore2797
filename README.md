@@ -1,110 +1,148 @@
-# Hi, I'm Kishore 👋
+# 🚀 Hi, I'm Kishore 👋
 
-I'm a self-taught full-stack developer, hardware enthusiast, and startup-minded builder from India. With no formal degree, I've built systems from scratch—spanning software, hardware, networking, and AI—by breaking things, shipping code, and learning relentlessly. My focus: creating real products that solve problems, like DailyDokz for image and PDF processing.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00ff7f&center=true&vCenter=true&width=600&lines=Self-Taught+Full-Stack+Developer+%26+Hardware+Enthusiast;Building+Systems+from+Scratch+%7C+Startup-Minded+Creator;From+India+%7C+Passionate+about+Decentralized+Tech" alt="Typing SVG">
+</div>
 
-I think like a founder, not an employee. Passionate about decentralized systems, embedded tech, and scalable architectures.
+<div align="center">
+  <img src="https://github.com/kishore2797/kishore2797/raw/main/assets/banner.gif" alt="Banner GIF" style="width: 100%;">
+</div>
 
-## About Me
+---
 
-### Journey
-Started coding in Java for Android apps, then explored web with JavaScript, React, and Django. Dived into mobile with Flutter and React Native, integrated AI and WebRTC for real-time apps, and experimented with Arduino for hardware projects. Built chat apps, movie databases, and even Alexa skills.
+## 🌟 About Me
 
-No shortcuts—just hands-on building. From wiring ESP32 boards to deploying P2P networks, I prioritize execution over theory.
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active%20Developer-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Status">
+  <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge&logo=developer&logoColor=white" alt="Role">
+</div>
 
-### Current Focus
-- Developing DailyDokz: A platform for efficient image and PDF processing.
-- Exploring AI agents and decentralized systems.
-- Learning MCU design and advanced electronics.
+I'm a self-taught **full-stack developer**, **hardware enthusiast**, and **startup-minded builder** from India 🇮🇳. With no formal degree, I've built systems from scratch—spanning software, hardware, networking, and AI—by breaking things, shipping code, and learning relentlessly. My focus: creating real products that solve problems, like **DailyDokz** for image and PDF processing.
 
-### Philosophy
+I think like a founder, not an employee. Passionate about **decentralized systems**, **embedded tech**, and **scalable architectures**.
+
+---
+
+## 🛠️ Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/🚀-DailyDokz-FF6B6B?style=for-the-badge" alt="DailyDokz"></td>
+      <td><img src="https://img.shields.io/badge/🤖-AI_Agents-4ECDC4?style=for-the-badge" alt="AI Agents"></td>
+      <td><img src="https://img.shields.io/badge/⚡-Decentralized_Systems-45B7D1?style=for-the-badge" alt="Decentralized Systems"></td>
+    </tr>
+  </table>
+</div>
+
+- 🚀 **Developing DailyDokz**: Platform for efficient image and PDF processing.
+- 🤖 **Exploring AI agents** and decentralized systems.
+- ⚡ **Learning MCU design** and advanced electronics.
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-Isn't_Art-It's_a_Tool_for_Impact-purple?style=for-the-badge" alt="Philosophy">
+</div>
+
 Code isn't art; it's a tool for impact. I ship fast, iterate, and scale.
 
-## Skills
+---
+
+## 🎯 Skills
 
 ### Programming Languages
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  Used in React, Next.js, and backend APIs. Example: Building scalable web apps.
-- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-  For Django backends and ML scripts. Example: Data processing pipelines.
-- **Java** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)  
-  Android development and enterprise apps. Example: Firebase-integrated chat apps.
-- **Kotlin** ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)  
-  Modern Android apps. Example: MVVM architectures.
-- **C** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)  
-  Low-level programming for embedded systems.
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+</div>
 
 ### Frameworks & Libraries
-- **React** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-  Component-based UIs. Example: Interactive dashboards.
-- **Next.js**  
-  SSR and full-stack apps. Example: E-commerce sites.
-- **Angular**  
-  Structured web apps. Example: Admin panels.
-- **Django**  
-  Python web framework. Example: REST APIs.
-- **Flutter**  
-  Cross-platform mobile. Example: BLoC state management.
-- **Node.js**  
-  Server-side JS. Example: Real-time apps with WebRTC.
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+</div>
 
 ### Mobile Development
-- **Android (Java/Kotlin)**  
-  Native apps. Example: MLKit integrations.
-- **React Native / Expo**  
-  Cross-platform. Example: Navigation and state.
+<div align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+</div>
 
 ### Backend & Databases
-- **Node.js / Express**  
-  APIs and servers. Example: Auth systems.
-- **Django**  
-  Full-stack. Example: User management.
-- **MongoDB** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-  NoSQL. Example: Flexible schemas.
-- **SQL**  
-  Relational DBs. Example: Complex queries.
-- **Firebase**  
-  Backend-as-a-Service. Example: Real-time databases.
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</div>
 
 ### Hardware & Embedded
-- **Arduino**  
-  Prototyping. Example: Anti-theft projects.
-- **ESP32**  
-  IoT devices. Example: Wireless systems.
-- **Electronics**  
-  Circuits and power management.
+<div align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+</div>
 
 ### AI & ML
-- **TensorFlow / MLKit**  
-  Mobile AI. Example: Face detection.
-- **OpenCV**  
-  Computer vision. Example: Image processing.
-- **AI Integration**  
-  Practical usage. Example: Chatbots.
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="ML Kit">
+</div>
 
 ### Tools & Platforms
-- **Git** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-- **Docker**  
-  Containerization.
-- **AWS / GCP**  
-  Cloud services. Example: Lambda functions.
-- **WebRTC**  
-  P2P networking.
-- **Alexa Skills**  
-  Voice apps.
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC">
+  <img src="https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white" alt="Alexa">
+</div>
 
-## Featured Projects
+---
 
-### Flutter-BLOC-App
-**Description:** A movie app built with Flutter using the BLoC pattern for state management. Displays movies from an API with search and details.
+## 🏆 Featured Projects
 
-**Technologies:** Flutter, Dart, BLoC, API Integration.
+<div align="center">
+  <img src="https://img.shields.io/badge/Projects-103%2B%20Repos-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
+  <img src="https://img.shields.io/badge/Stars-10-yellow?style=for-the-badge&logo=star&logoColor=white" alt="Stars">
+  <img src="https://img.shields.io/badge/Followers-3-green?style=for-the-badge&logo=user&logoColor=white" alt="Followers">
+</div>
 
-**Features:**
-- Movie listing with pagination.
-- Search functionality.
-- Detailed view with ratings.
+### 🎬 Flutter-BLOC-App
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/BLoC-FF6B6B?style=for-the-badge" alt="BLoC">
+  <img src="https://img.shields.io/badge/API_Integration-4ECDC4?style=for-the-badge" alt="API Integration">
+  <img src="https://img.shields.io/badge/⭐-2-yellow?style=for-the-badge" alt="Stars">
+</div>
 
-**Installation:**
+**🎯 Description:** A movie app built with Flutter using the BLoC pattern for state management. Displays movies from an API with search and details.
+
+**✨ Features:**
+- 🎬 Movie listing with pagination
+- 🔍 Search functionality
+- 📊 Detailed view with ratings
+- 🎨 Clean UI/UX design
+
+**🚀 Installation:**
 ```bash
 git clone https://github.com/kishore2797/Flutter-BLOC-App
 cd Flutter-BLOC-App
@@ -112,27 +150,33 @@ flutter pub get
 flutter run
 ```
 
-**Usage:**
+**💻 Usage:**
 ```dart
 // Example BLoC event
 class LoadMoviesEvent extends MovieEvent {}
 ```
 
-**Screenshots:** [Placeholder for images]
+**🔗 Links:** [GitHub](https://github.com/kishore2797/Flutter-BLOC-App) | [Live Demo](https://example.com) | [📱 Download APK](https://example.com)
 
-**Links:** [GitHub](https://github.com/kishore2797/Flutter-BLOC-App) | Stars: 2
+---
 
-### food_app_in_next_js
-**Description:** A food ordering app developed with Next.js, featuring menus, carts, and payments.
+### 🍕 food_app_in_next_js
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+</div>
 
-**Technologies:** Next.js, React, JavaScript, CSS.
+**🎯 Description:** A food ordering app developed with Next.js, featuring menus, carts, and payments.
 
-**Features:**
-- Menu browsing.
-- Cart management.
-- User authentication.
+**✨ Features:**
+- 🍽️ Menu browsing
+- 🛒 Cart management
+- 🔐 User authentication
+- 💳 Payment integration
 
-**Installation:**
+**🚀 Installation:**
 ```bash
 git clone https://github.com/kishore2797/food_app_in_next_js
 cd food_app_in_next_js
@@ -140,79 +184,97 @@ npm install
 npm run dev
 ```
 
-**Usage:**
+**💻 Usage:**
 ```js
 // Example component
 import React from 'react';
 const Menu = () => <div>Food Menu</div>;
 ```
 
-**Screenshots:** [Placeholder]
+**🔗 Links:** [GitHub](https://github.com/kishore2797/food_app_in_next_js) | [Live Demo](https://example.com)
 
-**Links:** [GitHub](https://github.com/kishore2797/food_app_in_next_js)
+---
 
-### 2022_Projects
-**Description:** Collection of projects from 2022, including web and mobile experiments.
+### 📅 2022_Projects
+<div align="center">
+  <img src="https://img.shields.io/badge/Year-2022-FF6B6B?style=for-the-badge" alt="2022">
+  <img src="https://img.shields.io/badge/Various_Technologies-4ECDC4?style=for-the-badge" alt="Various">
+  <img src="https://img.shields.io/badge/⭐-1-yellow?style=for-the-badge" alt="Stars">
+</div>
 
-**Technologies:** Various (JS, Python, etc.)
+**🎯 Description:** Collection of projects from 2022, including web and mobile experiments.
 
-**Features:**
-- Diverse apps.
-- Learning demos.
+**✨ Features:**
+- 🌐 Diverse apps
+- 📚 Learning demos
+- 🔄 Iterative improvements
 
-**Installation:** Varies per project.
+**🚀 Installation:** Varies per project.
 
-**Usage:** Run individual projects.
+**💻 Usage:** Run individual projects.
 
-**Links:** [GitHub](https://github.com/kishore2797/2022_Projects) | Stars: 1
+**🔗 Links:** [GitHub](https://github.com/kishore2797/2022_Projects)
 
-### Android_MLKit
-**Description:** Android app integrating Google's ML Kit for face detection and text recognition.
+---
 
-**Technologies:** Java, Android, ML Kit.
+### 🤖 Android_MLKit
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="ML Kit">
+</div>
 
-**Features:**
-- Real-time face detection.
-- OCR.
+**🎯 Description:** Android app integrating Google's ML Kit for face detection and text recognition.
 
-**Installation:**
+**✨ Features:**
+- 👤 Real-time face detection
+- 📄 OCR (Optical Character Recognition)
+- 📱 Camera integration
+
+**🚀 Installation:**
 ```bash
 git clone https://github.com/kishore2797/Android_MLKit
 cd Android_MLKit
 ./gradlew build
 ```
 
-**Usage:**
+**💻 Usage:**
 ```java
 // Example ML Kit
 FaceDetector detector = FaceDetection.getClient();
 ```
 
-**Links:** [GitHub](https://github.com/kishore2797/Android_MLKit)
+**🔗 Links:** [GitHub](https://github.com/kishore2797/Android_MLKit)
 
-### ktor_basics
-**Description:** Learning Ktor framework for Kotlin backend development.
+---
 
-**Technologies:** Kotlin, Ktor.
+### ⚡ ktor_basics
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Ktor-FF6B6B?style=for-the-badge" alt="Ktor">
+</div>
 
-**Features:**
-- Basic API endpoints.
-- Routing and responses.
+**🎯 Description:** Learning Ktor framework for Kotlin backend development.
 
-**Installation:**
+**✨ Features:**
+- 🔌 Basic API endpoints
+- 🛣️ Routing and responses
+- 🚀 Lightweight server
+
+**🚀 Installation:**
 ```bash
 git clone https://github.com/kishore2797/ktor_basics
 cd ktor_basics
 ./gradlew run
 ```
 
-**Usage:**
+**💻 Usage:**
 ```kotlin
 // Example route
 get("/") { call.respondText("Hello Ktor") }
 ```
 
-**Links:** [GitHub](https://github.com/kishore2797/ktor_basics)
+**🔗 Links:** [GitHub](https://github.com/kishore2797/ktor_basics)
 
 ## All Projects
 
@@ -1106,17 +1168,117 @@ get("/") { call.respondText("Hello Ktor") }
 
 **Links:** [GitHub](https://github.com/kishore2797/AwesomeXSS)
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishore2797&show_icons=true&theme=radical)
+<div align="center">
+  <pre>
+    ██████╗ ██╗   ██╗██████╗ ███████╗██████╗ 
+    ██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
+    ██████╔╝ ╚████╔╝ ██████╔╝█████╗  ██████╔╝
+    ██╔══██╗  ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
+    ██████╔╝   ██║   ██████╔╝███████╗██║  ██║
+    ╚═════╝    ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝
+  </pre>
+  <img src="https://img.shields.io/badge/🔥-Building_the_Future-FF6B6B?style=for-the-badge" alt="Building the Future">
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishore2797&layout=compact&theme=radical)
+---
 
-## Contact
+## 🎵 Currently Working On
 
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/kishore2797)
-- **Email:** kishore@example.com
-- **YouTube:** [Channel](https://www.youtube.com/channel/UC3yHTwcrNWLoJjZgwbI_Z5w)
-- **Website:** [Portfolio](https://kishore2797.github.io)
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/🚀-DailyDokz-Development-FF6B6B?style=for-the-badge" alt="DailyDokz"></td>
+      <td><img src="https://img.shields.io/badge/🤖-AI_Agents-Research-4ECDC4?style=for-the-badge" alt="AI Agents"></td>
+      <td><img src="https://img.shields.io/badge/⚡-WebRTC-P2P_Networks-45B7D1?style=for-the-badge" alt="WebRTC"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/📱-Flutter_UI_Components-Design-02569B?style=for-the-badge" alt="Flutter UI"></td>
+      <td><img src="https://img.shields.io/badge/🔧-Ktor_Backend_API-Development-7F52FF?style=for-the-badge" alt="Ktor Backend"></td>
+      <td><img src="https://img.shields.io/badge/🌐-Decentralized_Systems-Architecture-333333?style=for-the-badge" alt="Decentralized Systems"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishore2797&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" alt="GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore2797&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" alt="Top Languages">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore2797&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak">
+</div>
+
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/kishore2797" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/kishore2797" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.youtube.com/channel/UC3yHTwcrNWLoJjZgwbI_Z5w" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="mailto:kishore@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://kishore2797.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio">
+  </a>
+</div>
+
+---
+
+## 📈 Project Statistics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kishore2797&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
+---
+
+## 🎯 Fun Facts
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀-103%2B%20Projects-FF6B6B?style=for-the-badge" alt="Projects">
+  <img src="https://img.shields.io/badge/⭐-10%20Stars-yellow?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/badge/👥-3%20Followers-green?style=for-the-badge" alt="Followers">
+  <img src="https://img.shields.io/badge/🌍-India-blue?style=for-the-badge" alt="India">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📱-Android%20Dev-3DDC84?style=for-the-badge" alt="Android">
+  <img src="https://img.shields.io/badge/🌐-Web%20Dev-61DAFB?style=for-the-badge" alt="Web">
+  <img src="https://img.shields.io/badge/🤖-AI%20Integration-4285F4?style=for-the-badge" alt="AI">
+  <img src="https://img.shields.io/badge/⚡-Hardware-00979D?style=for-the-badge" alt="Hardware">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💡-Think_Like_a_Founder-Not_an_Employee-purple?style=for-the-badge" alt="Philosophy">
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ and lots of ☕ by Kishore</sub>
+</div>
+
+<div align="center">
+  <sub>Last updated: 2026-02-08</sub>
+</div>
 
 #founder #deeptech #systems #fullstack #mobile #ai
