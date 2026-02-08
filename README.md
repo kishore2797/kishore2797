@@ -1,7 +1,7 @@
 # 🚀 Hi, I'm Kishore 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00ff7f&center=true&vCenter=true&width=600&lines=Self-Taught+Full-Stack+Developer+%26+Hardware+Enthusiast;Building+Systems+from+Scratch+%7C+Startup-Minded+Creator;From+India+%7C+Passionate+about+Decentralized+Tech" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=00ff7f&center=true&vCenter=true&width=800&lines=Self-Taught+Full-Stack+Developer+%26+Hardware+Enthusiast;Building+Systems+from+Scratch+%7C+Startup-Minded+Creator;From+India+%7C+Passionate+about+Decentralized+Tech" alt="Typing SVG">
 </div>
 
 <div align="center">
@@ -1268,7 +1268,7 @@ get("/") { call.respondText("Hello Ktor") }
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/💡-Think_Like_a_Founder-Not_an_Employee-purple?style=for-the-badge" alt="Philosophy">
+  <img src="https://img.shields.io/badge/💡-Think_Like_a_Founder-Not_an_Employee-purple?style=for-the-badge&logo=github" alt="Philosophy">
 </div>
 
 ---
