@@ -125,6 +125,38 @@ Code isn't art; it's a tool for impact. I ship fast, iterate, and scale.
   <img src="https://img.shields.io/badge/Followers-3-green?style=for-the-badge&logo=user&logoColor=white" alt="Followers">
 </div>
 
+### 🧠 AI Text Summarizer
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+</div>
+
+**🎯 Description:** An advanced AI-powered text summarization app with multiple AI models (BART, T5, PEGASUS), file uploads, and export options. Full-stack project with a modern UI and RESTful API.
+
+**✨ Features:**
+- 🤖 Multiple AI summarization models (Extractive, Abstractive, Hybrid)
+- 📄 File upload support (PDF, DOCX, TXT)
+- 📊 Real-time statistics & quality metrics
+- 📥 Export summaries in multiple formats
+
+**🚀 Installation:**
+```bash
+git clone https://github.com/kishore2797/ai-text-summarizer
+cd ai-text-summarizer
+# Backend
+cd backend && pip install -r requirements-simple.txt && python main_fixed.py
+# Frontend
+cd ../frontend && npm install && npm run dev
+```
+
+**🔗 Links:** [GitHub](https://github.com/kishore2797/ai-text-summarizer) | [Live Demo](https://frontend-lemon-xi-20.vercel.app) | [API Docs](https://ai-text-summarizer-c3nb.onrender.com/docs)
+
+---
+
 ### 🎬 Flutter-BLOC-App
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
