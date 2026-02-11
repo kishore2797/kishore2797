@@ -45,7 +45,7 @@ I think like a founder, not an employee. Passionate about **agentic AI systems**
 ## 💡 Philosophy
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-Isn't_Art-It's_a_Tool_for_Impact-purple?style=for-the-badge" alt="Philosophy">
+  <img src="https://img.shields.io/badge/Code_Isn't_Art--It's_a_Tool_for_Impact-purple?style=for-the-badge" alt="Philosophy">
 </div>
 
 Code isn't art; it's a tool for impact. I ship fast, iterate, and scale.
