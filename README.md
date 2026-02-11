@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge&logo=developer&logoColor=white" alt="Role">
 </div>
 
-I'm a self-taught **full-stack developer**, **AI/ML engineer**, **hardware enthusiast**, and **startup-minded builder** from India 🇮🇳. With no formal degree, I've built systems from scratch—spanning software, hardware, networking, and AI—by breaking things, shipping code, and learning relentlessly. My focus: creating real products that solve problems, like **DailyDokz** for image and PDF processing, and building **AI agents** with RAG pipelines, LangChain, and Gemini.
+I'm a self-taught **full-stack developer**, **AI/ML engineer**, **hardware enthusiast**, and **startup-minded builder** from India 🇮🇳. With no formal degree, I've built systems from scratch—spanning software, hardware, networking, and AI—by breaking things, shipping code, and learning relentlessly. My focus: creating real products that solve problems — building **AI agents** with RAG pipelines, LangChain, and Gemini.
 
 I think like a founder, not an employee. Passionate about **agentic AI systems**, **RAG architectures**, **decentralized systems**, **embedded tech**, and **scalable architectures**.
 
@@ -29,14 +29,13 @@ I think like a founder, not an employee. Passionate about **agentic AI systems**
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/🚀-DailyDokz-FF6B6B?style=for-the-badge" alt="DailyDokz"></td>
       <td><img src="https://img.shields.io/badge/🤖-AI_Agents_%26_RAG-4ECDC4?style=for-the-badge" alt="AI Agents & RAG"></td>
       <td><img src="https://img.shields.io/badge/⚡-LangChain_%26_Gemini-45B7D1?style=for-the-badge" alt="LangChain & Gemini"></td>
+      <td><img src="https://img.shields.io/badge/🔧-Electronics_%26_MCU_Design-00979D?style=for-the-badge" alt="Electronics & MCU Design"></td>
     </tr>
   </table>
 </div>
 
-- 🚀 **Developing DailyDokz**: Platform for efficient image and PDF processing.
 - 🤖 **Building AI agents** with LangChain, Gemini, and RAG pipelines.
 - 🧠 **Shipping full-stack AI apps**: sentiment analysis, background removal, document Q&A, code migration.
 - ⚡ **Learning MCU design** and advanced electronics.
@@ -1559,7 +1558,6 @@ get("/") { call.respondText("Hello Ktor") }
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/🚀-DailyDokz-Development-FF6B6B?style=for-the-badge" alt="DailyDokz"></td>
       <td><img src="https://img.shields.io/badge/🤖-AI_Agents_%26_RAG-Production-4ECDC4?style=for-the-badge" alt="AI Agents & RAG"></td>
       <td><img src="https://img.shields.io/badge/⚡-LangChain_%26_Gemini-Active-45B7D1?style=for-the-badge" alt="LangChain & Gemini"></td>
     </tr>
