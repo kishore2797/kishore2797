@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=for-the-badge&logo=developer&logoColor=white" alt="Role">
 </div>
 
-I'm a self-taught **full-stack developer**, **hardware enthusiast**, and **startup-minded builder** from India 🇮🇳. With no formal degree, I've built systems from scratch—spanning software, hardware, networking, and AI—by breaking things, shipping code, and learning relentlessly. My focus: creating real products that solve problems, like **DailyDokz** for image and PDF processing.
+I'm a self-taught **full-stack developer**, **AI/ML engineer**, **hardware enthusiast**, and **startup-minded builder** from India 🇮🇳. With no formal degree, I've built systems from scratch—spanning software, hardware, networking, and AI—by breaking things, shipping code, and learning relentlessly. My focus: creating real products that solve problems, like **DailyDokz** for image and PDF processing, and building **AI agents** with RAG pipelines, LangChain, and Gemini.
 
-I think like a founder, not an employee. Passionate about **decentralized systems**, **embedded tech**, and **scalable architectures**.
+I think like a founder, not an employee. Passionate about **agentic AI systems**, **RAG architectures**, **decentralized systems**, **embedded tech**, and **scalable architectures**.
 
 ---
 
@@ -30,14 +30,15 @@ I think like a founder, not an employee. Passionate about **decentralized system
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/🚀-DailyDokz-FF6B6B?style=for-the-badge" alt="DailyDokz"></td>
-      <td><img src="https://img.shields.io/badge/🤖-AI_Agents-4ECDC4?style=for-the-badge" alt="AI Agents"></td>
-      <td><img src="https://img.shields.io/badge/⚡-Decentralized_Systems-45B7D1?style=for-the-badge" alt="Decentralized Systems"></td>
+      <td><img src="https://img.shields.io/badge/🤖-AI_Agents_%26_RAG-4ECDC4?style=for-the-badge" alt="AI Agents & RAG"></td>
+      <td><img src="https://img.shields.io/badge/⚡-LangChain_%26_Gemini-45B7D1?style=for-the-badge" alt="LangChain & Gemini"></td>
     </tr>
   </table>
 </div>
 
 - 🚀 **Developing DailyDokz**: Platform for efficient image and PDF processing.
-- 🤖 **Exploring AI agents** and decentralized systems.
+- 🤖 **Building AI agents** with LangChain, Gemini, and RAG pipelines.
+- 🧠 **Shipping full-stack AI apps**: sentiment analysis, background removal, document Q&A, code migration.
 - ⚡ **Learning MCU design** and advanced electronics.
 
 ---
@@ -56,8 +57,9 @@ Code isn't art; it's a tool for impact. I ship fast, iterate, and scale.
 
 ### Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
@@ -68,11 +70,14 @@ Code isn't art; it's a tool for impact. I ship fast, iterate, and scale.
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 </div>
 
 ### Mobile Development
@@ -99,8 +104,14 @@ Code isn't art; it's a tool for impact. I ship fast, iterate, and scale.
 
 ### AI & ML
 <div align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/ChromaDB-4ECDC4?style=for-the-badge" alt="ChromaDB">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="ML Kit">
 </div>
@@ -120,7 +131,7 @@ Code isn't art; it's a tool for impact. I ship fast, iterate, and scale.
 ## 🏆 Featured Projects
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Projects-103%2B%20Repos-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
+  <img src="https://img.shields.io/badge/Projects-133%2B%20Repos-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
   <img src="https://img.shields.io/badge/Stars-10-yellow?style=for-the-badge&logo=star&logoColor=white" alt="Stars">
   <img src="https://img.shields.io/badge/Followers-3-green?style=for-the-badge&logo=user&logoColor=white" alt="Followers">
 </div>
@@ -154,6 +165,261 @@ cd ../frontend && npm install && npm run dev
 ```
 
 **🔗 Links:** [GitHub](https://github.com/kishore2797/ai-text-summarizer) | [Live Demo](https://frontend-lemon-xi-20.vercel.app) | [API Docs](https://ai-text-summarizer-c3nb.onrender.com/docs)
+
+---
+
+### 🔄 PHP-to-React Migrator Agent
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" alt="RAG">
+</div>
+
+**🎯 Description:** An Agentic RAG system that analyzes legacy PHP+HTML+CSS applications and intelligently migrates them to modern React + Express + Node.js architecture. Parses PHP code structure, retrieves migration patterns from a curated knowledge base, and generates production-ready React components, Express API routes, and CSS Modules — all through a conversational chat interface.
+
+**✨ Features:**
+- 🤖 Agentic RAG with curated migration knowledge base
+- 🔍 PHP code analysis — file discovery, SQL detection, session/state analysis
+- ⚡ Single file & full codebase migration to React + Express
+- 🛡️ Security audit & component detection tools
+- 📊 Analytics dashboard & feedback system
+
+**🚀 Installation:**
+```bash
+git clone https://github.com/kishore2797/php-to-react-migrator
+cd php-to-react-migrator
+# Backend
+cd backend && pip install -r requirements.txt && uvicorn main:app --reload
+# Frontend
+cd ../frontend && npm install && npm run dev
+```
+
+**🔗 Links:** [GitHub](https://github.com/kishore2797/php-to-react-migrator)
+
+---
+
+### 🏢 Smart HR Policy Assistant
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/Vector_Store-4ECDC4?style=for-the-badge" alt="Vector Store">
+</div>
+
+**🎯 Description:** A RAG-powered HR policy assistant with an agentic tool system. Features a chat interface for querying HR policies, PDF document upload with chunking, in-memory vector store for semantic retrieval, and a mock HRIS database for employee lookups, leave balances, and benefits enrollment.
+
+**✨ Features:**
+- 💬 Conversational HR policy Q&A with RAG retrieval
+- 📄 PDF upload with automatic chunking & vector indexing
+- 👥 Mock HRIS agent tools (employee lookup, leave, benefits)
+- 📊 Analytics dashboard for query tracking
+
+**🚀 Installation:**
+```bash
+git clone https://github.com/kishore2797/smart-hr-policy-assistant
+cd smart-hr-policy-assistant
+# Backend
+cd backend && pip install -r requirements.txt && uvicorn main:app --reload
+# Frontend
+cd ../frontend && npm install && npm run dev
+```
+
+**🔗 Links:** [GitHub](https://github.com/kishore2797/smart-hr-policy-assistant)
+
+---
+
+### 💰 Personal Finance Coach Agent
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/Agent_Tools-45B7D1?style=for-the-badge" alt="Agent Tools">
+</div>
+
+**🎯 Description:** An AI-powered personal finance coaching agent with 7 specialized tools. Features a chat interface for financial advice, CSV transaction parsing, budget tracking, and real-time market data integration (Forex, S&P 500, APY, Treasury rates). Built with a RAG knowledge base for financial guidance.
+
+**✨ Features:**
+- 🧰 7 specialized agent tools for financial analysis
+- 📊 Dashboard with spending analytics & budget tracking
+- 📄 CSV transaction upload with auto-categorization
+- 🌐 Real-time market data APIs (Forex, S&P 500, Treasury)
+
+**🚀 Installation:**
+```bash
+git clone https://github.com/kishore2797/personal-finance-coach
+cd personal-finance-coach
+# Backend
+cd backend && pip install -r requirements.txt && uvicorn main:app --reload
+# Frontend
+cd ../frontend && npm install && npm run dev
+```
+
+**🔗 Links:** [GitHub](https://github.com/kishore2797/personal-finance-coach)
+
+---
+
+### 🧠 AI Sentiment Analyzer
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/DistilBERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="DistilBERT">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+</div>
+
+**🎯 Description:** A full-stack AI sentiment analysis app powered by DistilBERT (91% accuracy on SST-2). Supports single text, batch analysis, and CSV upload with real-time confidence scoring, history tracking, and a statistics dashboard.
+
+**✨ Features:**
+- 🔍 Single text & batch sentiment analysis with confidence scores
+- 📄 CSV/TXT file upload for bulk analysis
+- 📊 Statistics dashboard with sentiment trends & charts
+- 📜 History tracking with timestamps & processing metrics
+- 🌐 RESTful API with Swagger docs
+
+**🚀 Installation:**
+```bash
+git clone https://github.com/kishore2797/ai-sentiment-analyzer
+cd ai-sentiment-analyzer
+# Backend
+cd backend && pip install -r requirements.txt && uvicorn main:app --reload
+# Frontend
+cd ../frontend && npm install && npm run dev
+```
+
+**🔗 Links:** [GitHub](https://github.com/kishore2797/ai-sentiment-analyzer)
+
+---
+
+### 📄 Basic Document Q&A (RAG Pipeline)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" alt="ChromaDB">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+</div>
+
+**🎯 Description:** A RAG learning project implementing the core Retrieval-Augmented Generation pipeline: document loading (PDF/TXT), recursive text chunking, HuggingFace embeddings (all-MiniLM-L6-v2), ChromaDB vector storage, and similarity search with top-k retrieval.
+
+**✨ Features:**
+- 📚 Document loading — PDF and TXT file support
+- ✂️ Recursive character splitting (500 chars, 50 overlap)
+- 🧠 HuggingFace embeddings (all-MiniLM-L6-v2, free & local)
+- 🗄️ ChromaDB persistent vector storage
+- 🔍 Similarity search with top-k retrieval
+
+**🚀 Installation:**
+```bash
+git clone https://github.com/kishore2797/basic-document-qa
+cd basic-document-qa
+# Backend
+cd backend && pip install -r requirements.txt && uvicorn main:app --reload
+# Frontend
+cd ../frontend && npm install && npm run dev
+```
+
+**🔗 Links:** [GitHub](https://github.com/kishore2797/basic-document-qa)
+
+---
+
+### 🖼️ AI Background Remover
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/U2--Net-EE4C2C?style=for-the-badge" alt="U2-Net">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+</div>
+
+**🎯 Description:** A full-stack AI-powered image background removal app using U2-Net deep learning model with ONNX inference. Supports single & batch processing (up to 20 images), custom backgrounds, multiple output formats (PNG/JPEG/WebP), and side-by-side comparison.
+
+**✨ Features:**
+- 🤖 U2-Net deep learning model for accurate background removal
+- 📁 Batch processing up to 20 images, download as ZIP
+- 🎨 Custom backgrounds — transparent, white, black, or hex color
+- 📐 Resize output & multiple export formats (PNG, JPEG, WebP)
+- 🔄 Side-by-side comparison with split/zoom view
+
+**🚀 Installation:**
+```bash
+git clone https://github.com/kishore2797/ai-background-remover
+cd ai-background-remover
+# Backend
+cd backend && pip install -r requirements.txt && uvicorn main:app --reload
+# Frontend
+cd ../frontend && npm install && npm run dev
+```
+
+**🔗 Links:** [GitHub](https://github.com/kishore2797/ai-background-remover)
+
+---
+
+### 🤖 LangChain + Gemini Custom Tool Agent
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+</div>
+
+**🎯 Description:** A custom tool-calling agent built with LangChain and Google Gemini. Features function calling via Gemini's API, built-in tools (calculator, UTC time, file reader, Hacker News fetcher), interactive REPL mode, and single query mode.
+
+**✨ Features:**
+- 🔧 Gemini function calling via LangChain agent framework
+- 🧮 Built-in tools: calculator, UTC time, file reader, tech news
+- 💬 Interactive REPL & single query modes
+- 🔍 Smart search — news tool supports keyword filtering
+
+**🚀 Installation:**
+```bash
+git clone https://github.com/kishore2797/langchain_gemini_custom_agent
+cd langchain_gemini_custom_agent
+pip install -r requirements.txt
+# Set GOOGLE_API_KEY in .env
+python main.py
+```
+
+**🔗 Links:** [GitHub](https://github.com/kishore2797/langchain_gemini_custom_agent)
+
+---
+
+### 📄 Multi-Format Document Loader
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/NLP-4ECDC4?style=for-the-badge" alt="NLP">
+</div>
+
+**🎯 Description:** A unified document processing pipeline for AI/ML workflows (RAG, LLM search, document Q&A). Provides format-specific parsers for PDF, DOCX, TXT, and Markdown with configurable text chunking strategies (semantic, fixed-size, sentence-based) and a visual dashboard for upload, inspection, and export.
+
+**✨ Features:**
+- 📤 Unified upload API for PDF, DOCX, TXT, Markdown
+- 🧠 Format-specific parsers with structure preservation
+- ✂️ Configurable chunking — semantic, fixed-size, sentence-based
+- 🖥️ Visual dashboard for document management & export
+- 💚 Health monitoring & statistics panel
+
+**🚀 Installation:**
+```bash
+git clone https://github.com/kishore2797/multi-format-document-loader
+cd multi-format-document-loader
+# Backend
+cd backend && pip install -r requirements.txt && uvicorn app.main:app --reload
+# Frontend
+cd ../frontend && npm install && npm start
+```
+
+**🔗 Links:** [GitHub](https://github.com/kishore2797/multi-format-document-loader)
 
 ---
 
@@ -309,6 +575,78 @@ get("/") { call.respondText("Hello Ktor") }
 **🔗 Links:** [GitHub](https://github.com/kishore2797/ktor_basics)
 
 ## All Projects
+
+### php-to-react-migrator
+**Description:** Agentic RAG system for migrating PHP apps to React + Express + Node.js.
+
+**Technologies:** Python, FastAPI, Next.js, TypeScript, LangChain, RAG.
+
+**Features:** Code migration, security audit, component detection, analytics.
+
+**Links:** [GitHub](https://github.com/kishore2797/php-to-react-migrator)
+
+### multi-format-document-loader
+**Description:** Unified document processing pipeline for AI/ML workflows.
+
+**Technologies:** Python, FastAPI, JavaScript.
+
+**Features:** PDF/DOCX/TXT/Markdown parsing, semantic chunking, visual dashboard.
+
+**Links:** [GitHub](https://github.com/kishore2797/multi-format-document-loader)
+
+### smart-hr-policy-assistant
+**Description:** RAG-powered HR policy assistant with agentic tools.
+
+**Technologies:** Python, FastAPI, Next.js, TypeScript.
+
+**Features:** Policy Q&A, PDF upload, vector store, HRIS agent tools.
+
+**Links:** [GitHub](https://github.com/kishore2797/smart-hr-policy-assistant)
+
+### personal-finance-coach
+**Description:** AI finance coaching agent with 7 specialized tools.
+
+**Technologies:** Python, FastAPI, Next.js, TypeScript.
+
+**Features:** Budget tracking, CSV parsing, market data, RAG knowledge base.
+
+**Links:** [GitHub](https://github.com/kishore2797/personal-finance-coach)
+
+### ai-sentiment-analyzer
+**Description:** Full-stack sentiment analysis app powered by DistilBERT.
+
+**Technologies:** TypeScript, Next.js, Python, FastAPI, Hugging Face.
+
+**Features:** Single/batch analysis, CSV upload, statistics dashboard, history.
+
+**Links:** [GitHub](https://github.com/kishore2797/ai-sentiment-analyzer)
+
+### basic-document-qa
+**Description:** RAG pipeline with document loading, embeddings, and vector search.
+
+**Technologies:** Python, FastAPI, React, ChromaDB, HuggingFace.
+
+**Features:** PDF/TXT loading, text chunking, ChromaDB storage, similarity search.
+
+**Links:** [GitHub](https://github.com/kishore2797/basic-document-qa)
+
+### ai-background-remover
+**Description:** AI-powered image background removal using U2-Net.
+
+**Technologies:** TypeScript, Next.js, Python, FastAPI, ONNX.
+
+**Features:** Single/batch processing, custom backgrounds, multiple formats, comparison view.
+
+**Links:** [GitHub](https://github.com/kishore2797/ai-background-remover)
+
+### langchain_gemini_custom_agent
+**Description:** Custom tool-calling agent with LangChain and Google Gemini.
+
+**Technologies:** Python, LangChain, Gemini.
+
+**Features:** Function calling, built-in tools, interactive REPL, news search.
+
+**Links:** [GitHub](https://github.com/kishore2797/langchain_gemini_custom_agent)
 
 ### expense_tracker_1
 **Description:** A simple expense tracker app.
@@ -1222,12 +1560,12 @@ get("/") { call.respondText("Hello Ktor") }
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/🚀-DailyDokz-Development-FF6B6B?style=for-the-badge" alt="DailyDokz"></td>
-      <td><img src="https://img.shields.io/badge/🤖-AI_Agents-Research-4ECDC4?style=for-the-badge" alt="AI Agents"></td>
-      <td><img src="https://img.shields.io/badge/⚡-WebRTC-P2P_Networks-45B7D1?style=for-the-badge" alt="WebRTC"></td>
+      <td><img src="https://img.shields.io/badge/🤖-AI_Agents_%26_RAG-Production-4ECDC4?style=for-the-badge" alt="AI Agents & RAG"></td>
+      <td><img src="https://img.shields.io/badge/⚡-LangChain_%26_Gemini-Active-45B7D1?style=for-the-badge" alt="LangChain & Gemini"></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/📱-Flutter_UI_Components-Design-02569B?style=for-the-badge" alt="Flutter UI"></td>
-      <td><img src="https://img.shields.io/badge/🔧-Ktor_Backend_API-Development-7F52FF?style=for-the-badge" alt="Ktor Backend"></td>
+      <td><img src="https://img.shields.io/badge/🧠-Full--Stack_AI_Apps-Shipping-8E75B2?style=for-the-badge" alt="Full-Stack AI Apps"></td>
+      <td><img src="https://img.shields.io/badge/�-Flutter_UI_Components-Design-02569B?style=for-the-badge" alt="Flutter UI"></td>
       <td><img src="https://img.shields.io/badge/🌐-Decentralized_Systems-Architecture-333333?style=for-the-badge" alt="Decentralized Systems"></td>
     </tr>
   </table>
@@ -1284,16 +1622,16 @@ get("/") { call.respondText("Hello Ktor") }
 ## 🎯 Fun Facts
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀-103%2B%20Projects-FF6B6B?style=for-the-badge" alt="Projects">
+  <img src="https://img.shields.io/badge/🚀-133%2B%20Projects-FF6B6B?style=for-the-badge" alt="Projects">
   <img src="https://img.shields.io/badge/⭐-10%20Stars-yellow?style=for-the-badge" alt="Stars">
   <img src="https://img.shields.io/badge/👥-3%20Followers-green?style=for-the-badge" alt="Followers">
   <img src="https://img.shields.io/badge/🌍-India-blue?style=for-the-badge" alt="India">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📱-Android%20Dev-3DDC84?style=for-the-badge" alt="Android">
-  <img src="https://img.shields.io/badge/🌐-Web%20Dev-61DAFB?style=for-the-badge" alt="Web">
-  <img src="https://img.shields.io/badge/🤖-AI%20Integration-4285F4?style=for-the-badge" alt="AI">
+  <img src="https://img.shields.io/badge/🤖-AI%20Agents%20%26%20RAG-8E75B2?style=for-the-badge" alt="AI Agents">
+  <img src="https://img.shields.io/badge/🌐-Full--Stack%20Dev-61DAFB?style=for-the-badge" alt="Full-Stack">
+  <img src="https://img.shields.io/badge/📱-Mobile%20Dev-3DDC84?style=for-the-badge" alt="Mobile">
   <img src="https://img.shields.io/badge/⚡-Hardware-00979D?style=for-the-badge" alt="Hardware">
 </div>
 
@@ -1310,7 +1648,7 @@ get("/") { call.respondText("Hello Ktor") }
 </div>
 
 <div align="center">
-  <sub>Last updated: 2026-02-08</sub>
+  <sub>Last updated: 2026-02-11</sub>
 </div>
 
-#founder #deeptech #systems #fullstack #mobile #ai
+#founder #deeptech #systems #fullstack #mobile #ai #langchain #rag #agents #gemini
