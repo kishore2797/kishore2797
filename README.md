@@ -435,13 +435,13 @@ I think like a **founder**, not an employee. Currently focused on building **age
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishore2797&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=4ECDC4&text_color=FFFFFF" alt="GitHub Stats" width="49%">
+  <img src="https://github-profile-summary-for-github.com/api/cards/profile?username=kishore2797&theme=tokyonight" alt="GitHub Stats" width="49%">
   <img src="https://streak-stats.demolab.com/?user=kishore2797&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=4ECDC4&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="49%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore2797&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" alt="Top Languages" width="49%">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishore2797&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4" alt="Trophies" width="49%">
+  <img src="https://github-profile-summary-for-github.com/api/cards/most-used-languages?username=kishore2797&theme=tokyonight" alt="Top Languages" width="49%">
+  <img src="https://github-profile-trophy.tech/?username=kishore2797&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4" alt="Trophies" width="49%">
 </div>
 
 ---
