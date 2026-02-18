@@ -435,13 +435,18 @@ I think like a **founder**, not an employee. Currently focused on building **age
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-for-github.com/api/cards/profile?username=kishore2797&theme=tokyonight" alt="GitHub Stats" width="49%">
-  <img src="https://streak-stats.demolab.com/?user=kishore2797&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=4ECDC4&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="49%">
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-for-github.com/api/cards/most-used-languages?username=kishore2797&theme=tokyonight" alt="Top Languages" width="49%">
-  <img src="https://github-profile-trophy.tech/?username=kishore2797&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4" alt="Trophies" width="49%">
+### 🚀 Quick Stats
+![](https://img.shields.io/badge/133%2B_Projects-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Full_Stack_Developer-4ECDC4?style=for-the-badge)
+![](https://img.shields.io/badge/AI_%26_ML_Expert-FF6B6B?style=for-the-badge)
+
+### 🎯 Focus Areas
+- 🤖 **AI Agents & RAG Systems**
+- ⚡ **Full-Stack Development**
+- 🔧 **Hardware & IoT**
+- 📱 **Mobile Apps**
+
 </div>
 
 ---
