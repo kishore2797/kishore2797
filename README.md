@@ -109,7 +109,29 @@ I think like a **founder**, not an employee. Currently focused on building **age
 
 <br/>
 
-### 🛒 E-Commerce Product Researcher `NEW`
+### ⚖️ Legal Contract Reviewer Bot `NEW`
+> **Agent + Advanced RAG** — Small law firms and startups can review NDAs and vendor contracts against company templates and case law
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Agent-4ECDC4?style=flat-square" alt="Agent">
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+</div>
+
+- 📄 **Document Upload**: Upload PDF or TXT contracts for analysis
+- ⚠️ **Risk Flagging**: High / Medium / Low severity with explanations  
+- ✏️ **Suggested Edits**: Template-aligned redline suggestions
+- ⚖️ **Case Law Citations**: Relevant precedents with holdings
+- 💬 **Legal Chat**: Ask about templates, clauses, and case law
+- 🎯 **Value**: Saves 10–20 hours per contract review
+
+🔗 [**GitHub**](https://github.com/kishore2797/legal-contract-reviewer)
+
+---
+
+### 🛒 E-Commerce Product Researcher
 > **Multi-Agent + RAG + MCP** — Automates competitor & trend research for online sellers
 
 <div align="center">
@@ -414,7 +436,7 @@ I think like a **founder**, not an employee. Currently focused on building **age
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kishore2797&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=4ECDC4&text_color=FFFFFF" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore2797&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=4ECDC4&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="49%">
+  <img src="https://streak-stats.demolab.com/?user=kishore2797&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=4ECDC4&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="49%">
 </div>
 
 <div align="center">
